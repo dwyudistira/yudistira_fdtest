@@ -123,7 +123,7 @@ Pengujian aplikasi menggunakan PHPUnit.
 6. ***Konfigurasi Mailtrap (Testing Email)***
     ```bash 
     MAIL_MAILER=smtp
-    MAIL_HOST=smtp.gmail.com
+    MAIL_HOST=smtp.googlemail.com
     MAIL_PORT=587
     MAIL_USERNAME=your_email@gmail.com
     MAIL_PASSWORD=your_app_password
