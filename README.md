@@ -34,7 +34,7 @@ Fitur utama untuk mengelola koleksi buku.
   - Tanggal upload
   - Rating
 
-### 👤 Manajemen Pengguna (Admin Only)
+### 👤 Manajemen Pengguna 
 Fitur admin untuk mengelola data pengguna.
 - Menampilkan daftar pengguna beserta:
   - Nama
